@@ -1,0 +1,31 @@
+
+div.candidate
+{
+     color: aquamarine;
+     font-size: 30px;
+     font-weight: bold;
+     text-align: center;
+     font-family: "Copper Plate",papyrus,fantasy;
+/*     background: orange;*/
+}
+div.subcandidate
+{
+    font-size: 20px;
+    font-weight: bold;
+     color: mistyrose;
+     text-align: center;
+/*     background: green;*/
+}
+div.sticky{
+    width: 100%;
+    position: fixed;
+}
+div.logout
+{
+   position:fixed;
+    left: 90%;
+    top:  5.5%;
+}
+a{
+  color: aqua;  
+}
